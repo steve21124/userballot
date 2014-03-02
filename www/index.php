@@ -14,7 +14,6 @@
     <title>UserBallot</title>
     <meta name="description" content="">
     <meta name="author" content="">
-
     <?php
         include('inc/head.php');
     ?>
